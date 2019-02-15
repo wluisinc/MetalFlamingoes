@@ -1,0 +1,87 @@
+.dropodown {
+    position: relative;
+    display: ruby;
+    background-color: #343a40;
+    color: #8a9da0;
+    margin: none;
+    border: #343a40;
+    
+  }
+
+.flaminguetes{
+  background-image: url(bgflamin.PNG);
+}
+  
+  .dropodown-content {
+    display: none;
+    position: absolute;
+    background-color: none;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  
+  }
+
+  .cofondo {
+    color: #343a40 !important;
+  }
+  
+  .flex-fill{
+    background-color: #db6ddb94 !important;
+    margin: 1em !important;
+    margin-left: 15em !important;
+    margin-right: 15em !important;
+  
+  }
+
+  #primeraCaja {
+    background-color: gold;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    display: flex;
+  }
+
+  #mainSelector {
+    font-size: 2em;
+    color:#db6ddb;
+    background-color: #343a40;
+  }
+  #mainSelectorItem:hover {
+    background-color: #8a9da0;
+  }
+  .card-link{
+    font-weight: bold !important;
+    color: #343a40 !important;
+    border: 1em #343a40 !important;
+  }
+
+  .card-text {
+    font-weight: bold !important;
+    font-stretch: expanded !important;
+  }
+
+ .text-left{
+   font-size: 1.5em !important;
+ }
+
+ footer {
+  color: #8a9da0;
+  background: #343a40;
+  padding: 17px 0 18px 0;
+  border-top: 1px solid #000;
+  position: absolute;
+  margin-top: 4em;
+  position: unset;
+ }
+ #magicDiv {
+   margin: 30em;
+ }
+
+ #magicDiv2 {
+  margin: 25em;
+}
+#magicDiv3 {
+  margin: 20em;
+}
